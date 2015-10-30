@@ -10,7 +10,7 @@ def dice (bot, trigger):
 		con = mdb.connect('localhost', 'casino', 'btncasino', 'casino');
 		
 	except:
-		print "Error: Unable to connect to user settings DB."
+		print "Error: Unable to connect to DB."
 		bot.say("Error: Unable to connect to DB.")
 		return
 
