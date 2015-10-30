@@ -55,9 +55,9 @@ def dice (bot, trigger):
 			con.commit()
 			return
 		else:
-			bot.say("Please enter your bet in form of .dice <amount> <high/low>")
+			bot.say("Please enter your bet in the form of .dice <amount> <high/low>")
 			return
 	else:
-		bot.say("Please enter your bet in form of .dice <amount> <high/low>")
+		bot.say("Please enter your bet in the form of .dice <amount> <high/low>")
 		return
 	con.close()

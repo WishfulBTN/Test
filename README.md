@@ -1,6 +1,6 @@
-BTN-Casino
+Casino
 ===
-To create a casino bot for BTN IRC capable of linking with site. Current system built on Willie (http://willie.dftba.net/).
+To create a casino bot for IRC. Current system built on Willie (http://willie.dftba.net/).
 
 General Idea
 ===
